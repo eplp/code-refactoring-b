@@ -1,13 +1,16 @@
+/** Universal selector to style all elements in the page */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/** body selector: applies background color*/
 body {
   background-color: #d9dcd6;
 }
 
+/** header class selector*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
@@ -15,52 +18,61 @@ body {
   color: #ffffff;
 }
 
+/** header class and h1 selectors to style company name Horiseon */
 .header h1 {
-  display: inline-block;
+  display: inline-block;  /** Displays h1 as an inline element, but can apply height and width values */
   font-size: 48px;
 }
 
+/** header class, h1, and seo class selectors */
 .header h1 .seo {
   color: #d9dcd6;
 }
 
+/** header class and nav selectors - styles navigation element to the right inside the navigation bar */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
-  float: right;
+  float: right;   /** floats the navigation element to the right of its container */ 
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
 
+/** header class, nav, and ul selectors: removes bullets from list of links */
 .header nav ul {
   list-style-type: none;
 }
 
+/** header class, nav, and ul selectors: */
 .header nav ul li {
-  display: inline-block;
+  display: inline-block;  /** displays links like inline elements but can apply other properties like height and width */
   margin-left: 25px;
 }
 
+/** a selector - styling to remove underlining from the links */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/** hero class selector: styling of hero image*/
 .hero {
-  height: 800px;
-  width: 100%;
+  height: 800px;    
+  width: 100%;    /** occupy the whole available screen-horizontal space */
   margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
+  background-image: url("../images/digital-marketing-meeting.jpg"); /** the hero image */
+  background-size: cover;   /** resize hero image to cover the whole container */
+  background-position: center;  /** centers the hero image */
 }
 
+/** content class selector*/
 .content {
-  width: 75%;
-  display: inline-block;
+  width: 75%;   /** occupy 75% of the available screen-horizontal space */
+  display: inline-block;  /** displays container as an inline element but can apply other properties like height and width */
   margin-left: 20px;
 }
 
+/** consolidated classes selector for each article */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -72,22 +84,26 @@ a {
   color: #ffffff;
 }
 
+/** consolidated classes selector for the articles' images */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
-  max-height: 200px;
+  max-height: 200px;    /** prevents the image from becoming larger than 200px */
 }
 
+/** float-left class selector -floats element to the left */
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
+/** float-right class selector -floats element to the right */
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
+/** consolidated classes selector for the articles' headings */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -95,21 +111,24 @@ a {
   font-size: 36px;
 }
 
+/** p selector - styles articles' text */
 p {
   font-size: 16px;
 }
 
+/** benefits class selector - styles this container for the aside element */
 .benefits {
-  margin-right: 20px;
+  margin-right: 0px;
   padding: 20px;
-  clear: both;
-  float: right;
+  clear: both;    
+  float: right;   /** floats aside element to the right */
   width: 20%;
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
 
+/** consolidated classes selector for the benefits articles' containers */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -117,6 +136,7 @@ p {
   color: #ffffff;
 }
 
+/** consolidated classes selector for h3 headings of the benefits articles' containers */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -124,14 +144,16 @@ p {
   text-align: center;
 }
 
+/** consolidated classes selector for images of the benefits articles' containers */
 .benefit-lead img,
 .benefit-brand img,
-.benefit-brand img {
+.benefit-cost img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
+/** footer class selector */
 .footer {
   padding: 30px;
   clear: both;
@@ -139,6 +161,7 @@ p {
   text-align: center;
 }
 
+/** footer class and h2 selectors */
 .footer h2 {
   font-size: 20px;
 }
