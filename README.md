@@ -46,6 +46,9 @@ THEN I find a concise, descriptive title.
 
 -  [Deployed Code Refactoring](https://eplp.github.io/code-refactoring-b/)
 
+- Deployed application screenshot
+![](./assets/images/code-refactoring-app-screenshot.png)
+
 ## Credits
 
 - [Xander Rapstine Xandromus](https://github.com/Xandromus) and [George Georgeyoo](https://github.com/Georgeyoo) created the initial source code that was refactored in this project.
