@@ -9,10 +9,11 @@ story and acceptance criteria.
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Credits](#credits)
 - [Project details](#project-details)
 - [Repository](#repository)
-- [Questions](#questions)
+- [Credits](#credits)
+- [License](#license)
+- [Questions](##questions)
 
 ## User Story
 
@@ -21,24 +22,32 @@ search engines
 
 ## Acceptance criteria
 
-GIVEN a webpage meets accessibility standards
+GIVEN a webpage meets accessibility standards  
 
-### WHEN I view the source code
+WHEN I view the source code  
+THEN I find semantic HTML elements. 
+  
+WHEN I view the structure of the HTML elements  
+THEN I find that the elements follow a logical structure independent of
+styling and positioning.  
 
-#### THEN I find semantic HTML elements
+WHEN I view the image elements  
+THEN I find accessible alt attributes.  
 
-WHEN I view the structure of the HTML elements THEN I find that the elements follow a logical structure independent of
-styling and positioning WHEN I view the image elements THEN I find accessible alt attributes WHEN I view the heading
-attributes THEN they fall in sequential order WHEN I view the title element THEN I find a concise, descriptive title
+WHEN I view the heading attributes  
+THEN they fall in sequential order.  
+
+WHEN I view the title element  
+THEN I find a concise, descriptive title.
 
 ## Project details
 
-**Code Refactoring** by [Edgardo Pina](https://github.com/eplp/code-refactoring-b).
+- **Code Refactoring** repo by [Edgardo Pina](https://github.com/eplp/code-refactoring-b).
+- [Edgardo Pina repo](https://github.com/eplp).
 
 ## Credits
 
-- [Xander Rapstine Xandromus](https://github.com/Xandromus) and [George Georgeyoo](https://github.com/Georgeyoo) created
-  the initial source code that was refactored in this project.
+- [Xander Rapstine Xandromus](https://github.com/Xandromus) and [George Georgeyoo](https://github.com/Georgeyoo) created the initial source code that was refactored in this project.
 
 ## License
 
@@ -48,4 +57,4 @@ Copyright (c) 2023 Jose Edgardo Pina. All rights reserved.
 
 For any additional questions or comments, please send a message to the following address:
 
-GitHub Email Address: <edgardopina57@gmail.com>
+GitHub Email Address: <mailto:edgardopina57@gmail.com>
