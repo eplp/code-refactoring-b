@@ -58,4 +58,4 @@ For any additional questions or comments, please send a message to the following
 
 [GitHub Email Address](mailto:edgardopina57@gmail.com)  
 
-[Edgardo Pina - GitHub](github.com/eplp)
+[Edgardo Pina - GitHub projects](github.com/eplp)
