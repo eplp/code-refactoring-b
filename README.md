@@ -13,7 +13,7 @@ story and acceptance criteria.
 - [Repository](#repository)
 - [Credits](#credits)
 - [License](#license)
-- [Questions](##questions)
+- [Questions](#questions)
 
 ## User Story
 
@@ -42,8 +42,7 @@ THEN I find a concise, descriptive title.
 
 ## Project details
 
-- **Code Refactoring** repo by [Edgardo Pina](https://github.com/eplp/code-refactoring-b).
-- [Edgardo Pina repo](https://github.com/eplp).
+-  [Code Refactoring - basic](https://github.com/eplp/code-refactoring-b) repo by Edgardo Pina.
 
 ## Credits
 
@@ -57,4 +56,6 @@ Copyright (c) 2023 Jose Edgardo Pina. All rights reserved.
 
 For any additional questions or comments, please send a message to the following address:
 
-GitHub Email Address: <mailto:edgardopina57@gmail.com>
+[GitHub Email Address](mailto:edgardopina57@gmail.com)  
+
+[Edgardo Pina - GitHub](github.com/eplp)
