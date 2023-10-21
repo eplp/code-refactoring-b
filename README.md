@@ -51,7 +51,8 @@ THEN I find a concise, descriptive title.
 
 ## Credits
 
-- [Xander Rapstine Xandromus](https://github.com/Xandromus) and [George Georgeyoo](https://github.com/Georgeyoo) created the initial source code that was refactored in this project.
+- [Xander Rapstine Xandromus](https://github.com/Xandromus) and [George Georgeyoo](https://github.com/Georgeyoo) created the initial source code that was refactored in this project.  
+- The original source code is located in the [f/source-code branch](https://github.com/eplp/code-refactoring-b/tree/f/source-code) of this project.
 
 ## License
 
