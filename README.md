@@ -42,7 +42,9 @@ THEN I find a concise, descriptive title.
 
 ## Project details
 
--  [Code Refactoring - basic](https://github.com/eplp/code-refactoring-b) repo by Edgardo Pina.
+-  [Code Refactoring - basic](https://github.com/eplp/code-refactoring-b) repo by Edgardo Pina.  
+
+-  [Deployed Code Refactoring](https://eplp.github.io/code-refactoring-b/)
 
 ## Credits
 
@@ -58,4 +60,4 @@ For any additional questions or comments, please send a message to the following
 
 [GitHub Email Address](mailto:edgardopina57@gmail.com)  
 
-[Edgardo Pina - GitHub projects](github.com/eplp)
+[Edgardo Pina - GitHub projects](https//:www.github.com/eplp)
