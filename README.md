@@ -46,7 +46,8 @@ THEN I find a concise, descriptive title.
 
 -  [Deployed Code Refactoring](https://eplp.github.io/code-refactoring-b/)
 
-- Deployed application screenshot
+- Deployed application screenshot  
+
 ![](./assets/images/code-refactoring-app-screenshot.png)
 
 ## Credits
