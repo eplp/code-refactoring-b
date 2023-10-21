@@ -56,5 +56,6 @@ Copyright (c) 2023 Jose Edgardo Pina. All rights reserved.
 
 For any additional questions or comments, please send a message to the following address:
 
-[GitHub Email Address](mailto:edgardopina57@gmail.com)
-[GitHub repo](github.com/eplp)
+[GitHub Email Address](mailto:edgardopina57@gmail.com)  
+
+[Edgardo Pina - GitHub](github.com/eplp)
